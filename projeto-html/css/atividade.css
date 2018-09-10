@@ -1,0 +1,124 @@
+.inicio{
+ position:  relative;
+ margin-left: -30px;
+ margin-right:-80px;
+ margin-top: -30px;
+ 
+  
+}
+
+body{
+ background-color: black;
+}
+
+.menu ul{
+	font-size: 25px;
+}
+
+
+
+
+
+.menu ul li { 
+  display: inline; 
+  
+  
+}
+
+.menu a{
+ color: #808080;
+  text-align: center;
+}
+
+.menu {
+  position: absolute;
+   top: 105px;
+   right: 550px;
+  text-align: center;
+
+}
+
+.destaques h3{
+  color: #808080;
+ text-align: center;
+}
+
+
+.destaques{
+    width: 1000px;
+    height: 950px;
+
+
+    border: 1px solid #CCC;
+} 
+
+.destaques{
+    margin-left: -40px;
+    margin-top: 30px;
+    margin-bottom:-50px;
+    margin-right: auto;
+ 
+}
+
+
+
+.jovens-titans img{
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+}
+.jovens-titans h1{
+    color: #808080;
+    position: absolute;
+    margin-left: 45px;
+    display: inline;
+    margin-top: -5px;
+}
+
+.jovens-titans table{
+   position: absolute;
+   width: 300px;
+   height: 160px;
+   display: inline;
+   margin-top: 42px;
+   margin-left: 5px;
+   color: #808080;
+} 
+
+
+.cblol img{
+    width: 500px;
+    height: 230px;
+    position: relative;
+    color: #808080;
+    margin-left: 200px;
+}
+
+.cblol h1{
+   width: 500px;
+   height: 230px;
+   color: #808080;
+   margin-left: 200px;
+}
+
+.cblol a{
+  color:#808080;
+}
+
+
+.freira img{
+    width: 500px;
+    height: 330px;
+    position: relative;
+    margin-top: -200px;
+    color: #808080;
+    margin-left: 200px;
+}
+
+.freira h1{
+    width: 500px;
+    height: 330px;
+    color: #808080;
+    position: absolute;
+    margin-top:-3px;
+    margin-left: 200px;
